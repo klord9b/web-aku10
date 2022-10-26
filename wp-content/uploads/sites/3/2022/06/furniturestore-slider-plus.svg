@@ -1,0 +1,8 @@
+<svg width="210" height="210" viewBox="0 0 210 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="105" cy="105" r="105" fill="white" fill-opacity="0.15"/>
+<circle cx="105" cy="105" r="104.5" stroke="white" stroke-opacity="0.2"/>
+<circle cx="106.5" cy="106.5" r="70" stroke="white" stroke-opacity="0.2"/>
+<circle cx="105" cy="105" r="36" fill="#FFB128"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M105 117L105 96L108 96L108 117L105 117Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M96 105L117 105L117 108L96 108L96 105Z" fill="white"/>
+</svg>
